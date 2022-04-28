@@ -1,4 +1,4 @@
-package kang.clean.domain;
+package kang.clean.account.domain;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
